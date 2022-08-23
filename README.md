@@ -26,3 +26,5 @@ git clone https://github.com/ТУТ_ИМЯ_ВАШЕГО_АККАНТА/code-styl
 ![fork button](https://raw.githubusercontent.com/PraktikumJava/public-resources/master/import.png)
 
 В появившемся диалоговом окне открытия файлов выберите папку со склонированным репозиторием и нажмите кнопку Open. Обратите внимание, что открыть нужно весь каталог. После этого проект будет добавлен в IntelliJ IDEA.
+
+![Схема БД](shema/DB.png)
